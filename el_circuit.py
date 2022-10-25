@@ -1,4 +1,4 @@
-#!env python
+#!/usr/bin/env python2
 
 import json
 from operator import mul
